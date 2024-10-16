@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ifaz, a Penultimate Imperial Joint Maths and Computing student
+- 👋 Hi, I’m Ifaz, a Imperial Joint Maths and Computing student
 - 👀 I’m interested in everything in tech, especially in software engineering
 - 💞️ I’m looking for internships, hackathons, events and any helpful resources
 - 📫 You can reach me on linkedin : https://uk.linkedin.com/in/ifaz-u
